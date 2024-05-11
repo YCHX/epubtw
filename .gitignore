@@ -1,0 +1,7 @@
+test
+.DS_Store
+__pycache__
+*.ipynb
+ep.py
+ep2.py
+說明書.txt
